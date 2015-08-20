@@ -6,4 +6,6 @@ body{
   background: -o-linear-gradient(top, #2d3242 0%,#1e222f 100%); /* Opera 11.10+ */
   background: -ms-linear-gradient(top, #2d3242 0%,#1e222f 100%); /* IE10+ */
   background: linear-gradient(to bottom, #2d3242 0%,#1e222f 100%); /* W3C */
+  color: #fafafa;
 }
+
