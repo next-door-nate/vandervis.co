@@ -35,3 +35,12 @@ body{
 .featured-area p{
     text-align: center;
 }
+
+.site-footer{
+    padding: 20px 0;
+}
+
+.copyright{
+    margin: 0;
+    text-align: center;
+}
