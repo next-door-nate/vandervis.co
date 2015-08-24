@@ -28,4 +28,10 @@ body{
 
 .featured-area h1{
     margin-top: 0;
+    padding-top: 200px;
+    text-align: center;
+}
+
+.featured-area p{
+    text-align: center;
 }
