@@ -125,9 +125,9 @@ body{
 .featured-area .wrapper{
 	position:absolute;
 	top:50%;
-	-webkit-transform(Y): -50%;
-	-moz-transform(Y): -50%;
-	transform(Y): -50%;
+	-webkit-translate(Y): -50%;
+	-moz-translate(Y): -50%;
+	translate(Y): -50%;
 }
 
 /*====================== Graph ======================*/
