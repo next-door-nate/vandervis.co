@@ -29,7 +29,9 @@ $(document).ready(function(){
 });
 
 
-$('.featured-area').particleground({
-    dotColor: '#ff0000',
-    lineColor: '#ff0000'
+$(document).ready(function(){
+	$('.featured-area').particleground({
+	    dotColor: '#2d3242',
+	    lineColor: '#2d3242'
+	});
 });
