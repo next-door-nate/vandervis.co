@@ -31,7 +31,7 @@ $(document).ready(function(){
 
 $(document).ready(function(){
 	$('.featured-area').particleground({
-	    dotColor: '#2d3242',
-	    lineColor: '#2d3242'
+	    dotColor: 'rgba(255,255,255,.3)',
+	    lineColor: 'rgba(255,255,255,.3)'
 	});
 });
