@@ -32,7 +32,7 @@ $(document).ready(function(){
 $(document).ready(function(){
 	$('.featured-area').particleground({
 		curvedLines: false,
-	    	dotColor: 'rgba(255,255,255,.1)',
-	    	lineColor: 'rgba(255,255,255,.1)'
+	    	dotColor: 'rgba(255,255,255,.05)',
+	    	lineColor: 'rgba(255,255,255,.05)'
 	});
 });
