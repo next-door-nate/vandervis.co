@@ -27,3 +27,9 @@ $(document).ready(function(){
 		$('.bar-b').toggleClass('random-color1');
 	});
 });
+
+
+$('.featured-area').particleground({
+    dotColor: '#ff0000',
+    lineColor: '#ff0000'
+});
