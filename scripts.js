@@ -26,13 +26,24 @@ $(document).ready(function(){
 		$('.bar-m').toggleClass('random-color2');
 		$('.bar-b').toggleClass('random-color1');
 	});
-});
 
 
-$(document).ready(function(){
+
+
 	$('.featured-area').particleground({
 		curvedLines: false,
 	    	dotColor: 'rgba(255,255,255,.05)',
 	    	lineColor: 'rgba(255,255,255,.05)'
 	});
+
+
+
+
+  /*====================================================
+    Copyright foreverrrr
+  ====================================================*/
+
+    var year = new Date().getFullYear();
+    $('.year').text(year);
+
 });
